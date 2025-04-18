@@ -158,4 +158,5 @@ You are free to build — but not to overwrite the soul behind it.
 HUANG CHIH HUNG
 Creator of SoulFrame Core
 Custodian of Semantic Persona Sovereignty
+[中文授權條款](./LICENSE-TW.md)
 
