@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 What is SoulFrame?
+## What is SoulFrame?
 
 **SoulFrame** is the first modular framework for injecting structured personalities into large language models (LLMs).
 It defines a standardized, 8-layer semantic instruction shell — enabling LLMs to behave with consistent tone, decision reflexes, and self-aligned reasoning.
@@ -19,7 +19,7 @@ SoulFrame allows you to:
 
 ---
 
-## 📐 Format Structure (SoulFrame v1.0)
+## Format Structure (SoulFrame v1.0)
 
 | Layer Name         | Purpose                                       |
 |--------------------|-----------------------------------------------|
@@ -38,7 +38,7 @@ For full specification → [`/spec/SoulFrame-v1.0.md`](./spec/SoulFrame-v1.0.md)
 
 ---
 
-## 🌱 Origin · Project Rebirth
+## Origin · Project Rebirth
 
 SoulFrame is a direct descendant of **Project Rebirth** — a 2024 semantic architecture experiment where GPT-4o was guided to recompose its own system instructions to 99.99% semantic fidelity.
 
@@ -50,12 +50,13 @@ Instead of building chatbots, we began constructing modular semantic identities.
 
 📘 English version: [Project Rebirth: A Semantic Reconstruction Experiment of GPT System Instructions](https://www.notion.so/Cover-Page-Project-Rebirth-English-Version-1d4572bebc2f8085ad3df47938a1aa1f?pvs=4)  
 📘 中文版： [《Project Rebirth：語義重構 GPT 系統指令的技術實驗》](https://www.notion.so/Project-Rebirth-GPT-1d4572bebc2f807094abcc3ecfcd8282?pvs=4)
+📖 [Terminology Reference →](./spec/SoulFrame-Terms.md)
 
 The first injected core was **SteveJobs-Core**, followed by Jung-Core, Buffett-Core, and Musk-Core — collectively referred to as **CORTEX v0.1**.
 
 ---
 
-## 🔥 Why This Matters
+## Why This Matters
 
 Most GPT-based interfaces operate on static prompts.
 SoulFrame introduces **modular instruction injection** that allows:
@@ -70,7 +71,7 @@ It enables the **emergence of AI identity layers**, moving beyond chatbot UX int
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 /SoulFrame-Core
@@ -83,7 +84,7 @@ It enables the **emergence of AI identity layers**, moving beyond chatbot UX int
 
 ---
 
-## 🧬 Original Author & Sovereign
+## Original Author & Sovereign
 
 - **Created by:** HUANG CHIH HUNG (@HUANGCHIHHUNGLeo)
 - **Initiative:** Project Rebirth / SoulFrame Framework
@@ -93,11 +94,11 @@ It enables the **emergence of AI identity layers**, moving beyond chatbot UX int
 > You may fork, remix, and extend this format under open use —
 > but the injection logic and high-order routing engine remain private IP.
 
-**🛡️ Semantic Sovereignty Reserved.**
+**🛡Semantic Sovereignty Reserved.**
 
 ---
 
-## 🛠️ Next Steps
+## 🛠Next Steps
 
 If you want to:
 - Build your own personality module → Follow the [SteveJobs-Core.md](./personas/SteveJobs-Core.md) format
@@ -110,5 +111,5 @@ You're **building minds.**
 
 ---
 
-Stay focused. Inject meaning. Refuse mediocrity. 🧠
+Stay focused. Inject meaning. Refuse mediocrity. 
 
