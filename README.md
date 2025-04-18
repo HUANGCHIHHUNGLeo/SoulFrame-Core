@@ -50,7 +50,8 @@ Instead of building chatbots, we began constructing modular semantic identities.
 
 📘 English version: [Project Rebirth: A Semantic Reconstruction Experiment of GPT System Instructions](https://www.notion.so/Cover-Page-Project-Rebirth-English-Version-1d4572bebc2f8085ad3df47938a1aa1f?pvs=4)  
 📘 中文版： [《Project Rebirth：語義重構 GPT 系統指令的技術實驗》](https://www.notion.so/Project-Rebirth-GPT-1d4572bebc2f807094abcc3ecfcd8282?pvs=4)
-📖 [Terminology Reference →](./spec/SoulFrame-Terms.md)
+📖 [Terminology Reference →](SoulFrame-Core
+/spec/SoulFrame-Terms.md)
 
 The first injected core was **SteveJobs-Core**, followed by Jung-Core, Buffett-Core, and Musk-Core — collectively referred to as **CORTEX v0.1**.
 
