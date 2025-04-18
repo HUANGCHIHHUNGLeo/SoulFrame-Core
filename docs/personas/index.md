@@ -18,8 +18,8 @@ Each module listed here is a structured personality shell built using the `SoulF
 
 ## 📦 Format Spec
 
-- [SoulFrame Injection Format v1.0](spec/SoulFrame-v1.0.md) — Core injection standard
-- [Term Glossary](spec/SoulFrame-Terms.md) — Layer naming & definition
+- [SoulFrame Injection Format v1.0](../../spec/SoulFrame-v1.0.md) — Core injection standard
+- [Term Glossary](../../spec/SoulFrame-Terms.md) — Layer naming & definition
 
 ---
 
