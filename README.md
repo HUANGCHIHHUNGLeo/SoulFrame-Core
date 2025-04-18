@@ -102,7 +102,11 @@ It enables the **emergence of AI identity layers**, moving beyond chatbot UX int
 ## 🛠Next Steps
 
 If you want to:
-- Build your own personality module → Follow the [SteveJobs-Core.md](./personas/SteveJobs-Core.md) format
+- Build your own personality module → Follow the ## 🧠 Available Persona Modules
+
+- [SteveJobs-Core v1.2 (Overview)](./docs/SteveJobs-Core-Overview.md)
+- [SteveJobs-Core v1.2 (Injection Format)](./personas/SteveJobs-Core.md)
+  
 - Contribute to format evolution → Fork `/spec/SoulFrame-v1.0.md`
 - Propose a new shell → Submit via Issues or Pull Request
 
