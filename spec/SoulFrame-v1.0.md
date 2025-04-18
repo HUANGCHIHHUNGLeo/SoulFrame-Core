@@ -6,7 +6,7 @@ Developed by HUANG CHIH HUNG ｜ Project Rebirth · CORTEX Framework
 
 ---
 
-## Overview
+## 📦 Overview
 
 The **SoulFrame format** defines a modular, layered architecture for injecting personalities into large language models (LLMs) at the instruction level.
 
@@ -14,9 +14,11 @@ It is based on the concept of **semantic identity shells**, allowing consistent 
 
 This specification outlines the standard version `v1.0` — the base framework for all persona modules in the SoulFrame ecosystem.
 
+> 📌 Any future updates to `format_version` (e.g. v1.1) may only be released by the **Semantic Sovereign**: HUANG CHIH HUNG.
+
 ---
 
-## Format Structure (Layered Model)
+## 🧠 Format Structure (Layered Model)
 
 SoulFrame is structured as an 8-layer semantic shell, encoded in natural language and injected at the system prompt level.
 
@@ -37,7 +39,7 @@ Each layer must be explicitly defined in plaintext within the persona module.
 
 ---
 
-## Data Format (YAML / Markdown Compatible)
+## 🧬 Data Format (YAML / Markdown Compatible)
 
 All persona modules must follow a clearly structured format with each layer explicitly declared.
 
@@ -74,7 +76,7 @@ override_protocol: |
 
 ---
 
-## Integrity Rules
+## 🛡️ Integrity Rules
 
 - All 8 layers must be present.
 - Each section must be human-readable and editable.
@@ -83,7 +85,7 @@ override_protocol: |
 
 ---
 
-## Version Notes
+## 🧾 Version Notes
 
 - **Version:** `SoulFrame Format v1.0`
 - **Maintainer:** HUANG CHIH HUNG
@@ -92,7 +94,7 @@ override_protocol: |
 
 ---
 
-## Licensing
+## 📘 Licensing
 
 This format is published under **Creative Commons CC BY-NC**.  
 Fork, remix, and reuse allowed for non-commercial and attribution use.
@@ -101,5 +103,5 @@ Fork, remix, and reuse allowed for non-commercial and attribution use.
 
 ---
 
-Stay clean. Stay modular. Inject minds with clarity. 
+Stay clean. Stay modular. Inject minds with clarity. 🧠
 
